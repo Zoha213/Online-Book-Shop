@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Amar Bail",
+        "author": "Umera Ahmad",
+        "description": "Story of imbalanced relationships",
+        "image": "images/khail.jpg"
+    },
+    {
+        "title": "Main Anmol",
+        "author": "Nimra Ahmed",
+        "description": "Regrets from earlier times",
+        "image": "images/anmol.jpg"
+    },
+    {
+        "title": "Muat",
+        "author": "Dr. Khalid Norani",
+        "description": "Death",
+        "image": "images/maut.jpg"
+    },
+    {
+        "title": "Sulphite",
+        "author": "Noor Rajpoot",
+        "description": "An exploration of the human condition",
+        "image": "images/sulphait.jpg"
+    },
+    {
+        "title": "Khud Say Khuda Tak",
+        "author": "Muhammad Nasir Iftekhar",
+        "description": "Purify the human self",
+        "image": "images/khuda.jpg"
+    },
+    {
+        "title": "Peer-e-Kamil",
+        "author": "Umera Ahmad",
+        "description": "The Perfect Mentor",
+        "image": "images/peerkamil.jpg"
+    }
+    ,
+    {
+        "title": "Aab e Hayat",
+        "author": "Umera Ahmad",
+        "description": "Further explains the married life",
+        "image": "images/abyhayat.jpg"
+    }
+    ,
+    {
+        "title": "Jannat ke Pattay",
+        "author": "Nimra Ahmed",
+        "description": "Turning Story of Haya Sultan",
+        "image": "images/janat.jpg"
+    }
+
+]
